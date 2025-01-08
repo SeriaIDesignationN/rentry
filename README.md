@@ -1,2 +1,2 @@
-# rentry
-https://rentry.co/digitallydreaming 
+# balls
+rentry -> https://rentry.co/digitallydreaming 
